@@ -408,7 +408,7 @@ Garia
         {/* 26 */}
         <a className='hover:scale-95 transition-all delay-150  ' href="#">
             <div className='cursor-pointer'>
-            <div className='flex items-end w-[300px] h-[200px] md:w-[320px] md:h-[320px] lg:w-[240px] lg:h-[180px]  bg-center bg-cover rounded-2xl bg-[url(public/Quick.avif)] '>
+            <div className='flex items-end w-[300px] h-[200px] md:w-[320px] md:h-[320px] lg:w-[240px] lg:h-[180px]  bg-center bg-cover rounded-2xl bg-[url(/Quick.avif)] '>
                 <h2 className=' px-1  font-extrabold text-[#FFFFFFEB] '>166 OFF ABOVE 399</h2>
             </div>
             <div className='w-[240px] mt-2 px-1  '>
